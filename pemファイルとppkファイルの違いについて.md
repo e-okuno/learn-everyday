@@ -1,4 +1,4 @@
-## 1. pemファイルとppkファイルの違い
+## 1. pemファイルとppkファイルの違いについて
 ### 1-1. pemファイルとは？
 ---
 pem ... Privacy Enhanced Mailの略。 
