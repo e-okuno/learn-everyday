@@ -20,3 +20,6 @@ $ brew install putty
 //ppk→pemに変換
 $ puttygen ファイル名.ppk -O private-openssh -o ファイル名.pem
 ```
+
+### 参考リンク
+https://qiita.com/one_punch_man/items/2ad8b4664ed012bee5a7
