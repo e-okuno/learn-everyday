@@ -33,3 +33,7 @@ ssh鍵に対して、読み書きの権限を与えてやる。
 ```
 $ chmod 600 xxx.key
 ```
+
+#### 参考サイト
+- https://qiita.com/hanlio/items/c8a89244be67b1ec5b63
+- https://umebius.com/dev/permissions-0644-for-xxx-key-are-too-open-%E6%A8%A9%E9%99%90%E3%82%92%E3%81%A9%E3%81%86%E3%81%99%E3%82%8C%E3%81%B0%E3%81%84%E3%81%84%EF%BC%9F/
