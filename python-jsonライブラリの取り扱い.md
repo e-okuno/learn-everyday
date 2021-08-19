@@ -12,7 +12,7 @@ json      = json_load(json_file)
 ```python
 import json
 
-辞書型データ = json.loads（jsonデータ）
+辞書型データ = json.loads(jsonデータ)
 ```
 
 ### 辞書型 => JSON に変換
